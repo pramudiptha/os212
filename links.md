@@ -10,3 +10,5 @@ Learn about cyber security. A 16 lesson video about what is cyber security and w
 Basic knowledge of C programming. Notes for learning C quickly for programming. <br>
 4. [Pointer in C Programming](https://www.guru99.com/c-pointers.html) <br>
 What is Pointer in C and how to use it. Learn about and how to use pointer in C programming.
+5. [C Memory Management](https://stackoverflow.com/questions/24891/c-memory-management/24922)<br>
+Memory management in C Languange. Learn how to manage and what is memory.
