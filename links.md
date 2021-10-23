@@ -9,6 +9,8 @@ Learn about cyber security. A 16 lesson video about what is cyber security and w
 3. [C Programming for Java Programmers](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/0_CforJavaProgrammers.html)<br>
 Basic knowledge of C programming. Notes for learning C quickly for programming. <br>
 4. [Pointer in C Programming](https://www.guru99.com/c-pointers.html) <br>
-What is Pointer in C and how to use it. Learn about and how to use pointer in C programming.
+What is Pointer in C and how to use it. Learn about and how to use pointer in C programming. <br>
 5. [C Memory Management](https://stackoverflow.com/questions/24891/c-memory-management/24922)<br>
-Memory management in C Languange. Learn how to manage and what is memory.
+Memory management in C Languange. Learn how to manage and what is memory. <br>
+6. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+Learn about fork() in C Language. The basics of fork(), what to know about fork() and how to implement it using C programming language. <br>
