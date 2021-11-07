@@ -14,3 +14,5 @@ What is Pointer in C and how to use it. Learn about and how to use pointer in C 
 Memory management in C Languange. Learn how to manage and what is memory. <br>
 6. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 Learn about fork() in C Language. The basics of fork(), what to know about fork() and how to implement it using C programming language. <br>
+7. [Linux Semaphore](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/linux-sync-3.html) <br>
+Know more about Linux's Semaphore. Introduction to the semaphore and the how to implement it. <br>
