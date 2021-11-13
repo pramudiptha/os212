@@ -106,3 +106,17 @@ ZCZC W07  10 L16 Assignment #06 (Optional) Any suggestions/tips for the next sem
 ZCZC W07  30 L17 Assignment #07 Reviewed my peer links.
 ZCZC W07  15 L18 Assignment #08 Updated my log. 
 ZCZC W07  30 L19 Assignment #09 Submitted my Week 07 Assignment.
+ZCZC W08  05 L22 Quiz7_Week07
+ZCZC W08  15 L22 Quiz7_Week07
+ZCZC W08 100 L02 Zoom Meeting Weekly session
+ZCZC W08  30 L02 Zoom Meeting Q&A session
+ZCZC W08  60 L11 Assignment #01 Read OSC10 chapter 5
+ZCZC W08  60 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W08  60 L13 Assignment #03  Try Previous FinalTerm Problems (https://rms46.vlsm.org/2/203.pdf).
+ZCZC W08  90 L14 Assignment #04 Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08  30 L14 Assignment #05 Linux From Scratch 11.0 Chapter 05
+ZCZC W08  15 L15 Assignment #06 Update your bookmark links. See C.B. Kadal’s "LINKS/".
+ZCZC W08  10 L16 Assignment #07 (Optional) Any suggestions/tips for the next semester class? See C.B. Kadal’s "TIPS/".
+ZCZC W08  30 L18 Assignment #08 Review my neighbor links
+ZCZC W08  15 L19 Assignment #09 Update mylog.txt
+ZCZC W08  15 L20 Assignment #10 Submit my assignment to Github through GGG mantra

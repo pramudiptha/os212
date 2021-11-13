@@ -16,3 +16,5 @@ Memory management in C Languange. Learn how to manage and what is memory. <br>
 Learn about fork() in C Language. The basics of fork(), what to know about fork() and how to implement it using C programming language. <br>
 7. [Linux Semaphore](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/linux-sync-3.html) <br>
 Know more about Linux's Semaphore. Introduction to the semaphore and the how to implement it. <br>
+8. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/) <br>
+Linux from scratch instruction. How to LFS and know more about LFS. <br>
