@@ -18,3 +18,5 @@ Learn about fork() in C Language. The basics of fork(), what to know about fork(
 Know more about Linux's Semaphore. Introduction to the semaphore and the how to implement it. <br>
 8. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/) <br>
 Linux from scratch instruction. How to LFS and know more about LFS. <br>
+9. [BIOS (basic input/output system)](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system) <br>
+Learn about BIOS. Know about the history, uses, how does BIOS works. <br>

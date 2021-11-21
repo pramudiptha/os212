@@ -9,3 +9,4 @@ permalink: /TIPS/
 > Remember to rest. Overwork is really bad for you. <br>
 > Bring some snacks if that makes you more focus on studying. <br>
 > Spare some memory space because you will need alot for this course. <br>
+> Stay calm when you make a problem, there is always a way. <br>
